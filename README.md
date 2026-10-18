@@ -814,3 +814,5 @@ addon.
 Red Griffin ATC is hosted in [https://sourceforge.net/projects/red-griffin-atc/](https://sourceforge.net/projects/red-griffin-atc/)
 
 Red Griffin ATC (C) 2019-2021 Antonello Biancalana, Red Griffin, IK0TOJ
+Red Griffin ATC Remastered version.
+This is not an official release, I created it myself because i felt unsatisfied from the real one.
